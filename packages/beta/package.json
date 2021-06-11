@@ -2,8 +2,5 @@
   "name": "@wenyt-ms/beta",
   "version": "0.2.2",
   "repository": "git@github.com:wenytang-ms-123/TestSecrets.git",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "gitHead": "f1d91dbe69de6f24b49c3d6e0fa204e67a1fb65e"
 }

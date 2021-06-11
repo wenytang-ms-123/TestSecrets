@@ -6,8 +6,5 @@
     "@alecap7/alpha": "^0.2.0",
     "@alecap7/beta": "^0.2.2"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "gitHead": "f1d91dbe69de6f24b49c3d6e0fa204e67a1fb65e"
 }
