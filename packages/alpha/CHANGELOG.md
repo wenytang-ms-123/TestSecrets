@@ -3,6 +3,52 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1-alpha.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@1.1.1-alpha.0...@wenyt-ms/alpha@1.1.1-alpha.1) (2021-06-12)
+
+
+### Features
+
+* add fix ([d799363](https://github.com/wenytang-ms-123/TestSecrets/commit/d799363dee44faab479fad3124a1e0b38434d8d8))
+* remove console.log ([5fa18b2](https://github.com/wenytang-ms-123/TestSecrets/commit/5fa18b233c13cfa480549bdd8c572d892aceb24b))
+
+
+
+
+
+## [1.1.1-alpha.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@1.1.1-alpha.0...@wenyt-ms/alpha@1.1.1-alpha.1) (2021-06-12)
+
+
+### Features
+
+* remove console.log ([5fa18b2](https://github.com/wenytang-ms-123/TestSecrets/commit/5fa18b233c13cfa480549bdd8c572d892aceb24b))
+
+
+
+
+
+## [1.1.1-alpha.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@1.1.0...@wenyt-ms/alpha@1.1.1-alpha.0) (2021-06-12)
+
+
+### Features
+
+* remove console log on alpha ([7385f2b](https://github.com/wenytang-ms-123/TestSecrets/commit/7385f2b8ac7d22792b10271e574854259e83c202))
+
+
+
+
+
+# [1.1.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.11.0-alpha.8...@wenyt-ms/alpha@1.1.0) (2021-06-12)
+
+
+### Features
+
+* add consoel.log ([82e9bac](https://github.com/wenytang-ms-123/TestSecrets/commit/82e9baca89ea31fd44de10c88a46366cf96d59e1))
+* add log ([#8](https://github.com/wenytang-ms-123/TestSecrets/issues/8)) ([3d02a8d](https://github.com/wenytang-ms-123/TestSecrets/commit/3d02a8d385f77594045d3dc659cf9f6b925c07a3))
+
+
+
+
+
 # [0.11.0-alpha.8](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.11.0-alpha.7...@wenyt-ms/alpha@0.11.0-alpha.8) (2021-06-12)
 
 **Note:** Version bump only for package @wenyt-ms/alpha
