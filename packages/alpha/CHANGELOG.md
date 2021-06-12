@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.6.1...@wenyt-ms/alpha@0.7.0) (2021-06-12)
+
+
+### Features
+
+* add console.log on alpha ([44ccb9a](https://github.com/wenytang-ms-123/TestSecrets/commit/44ccb9acb6b9f38ed6bef11389cfa769b68e9c9e))
+
+
+
+
+
 ## [0.6.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.6.0...@wenyt-ms/alpha@0.6.1) (2021-06-11)
 
 **Note:** Version bump only for package @wenyt-ms/alpha
