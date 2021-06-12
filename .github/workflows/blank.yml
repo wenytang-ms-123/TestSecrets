@@ -47,4 +47,4 @@ jobs:
           npx lerna bootstrap
       - name: release prerelease npm packages to npmjs.org
         run: |
-          npx lerna publish --canary --preid=rc --dist-tag next --yes
+          npx lerna publish --canary --preid=rc --dist-tag=rc --yes
