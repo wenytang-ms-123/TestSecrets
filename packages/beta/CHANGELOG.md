@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.1-alpha.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/beta@0.7.1-rc.3...@wenyt-ms/beta@0.7.1-alpha.0) (2021-06-12)
+
+
+### Features
+
+* remove console log on beta ([526dcf9](https://github.com/wenytang-ms-123/TestSecrets/commit/526dcf952c93d9c4da69b150495112be75502e34))
+
+
+
+
+
 ## [0.7.1-rc.3](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/beta@0.7.1-rc.2...@wenyt-ms/beta@0.7.1-rc.3) (2021-06-12)
 
 **Note:** Version bump only for package @wenyt-ms/beta
