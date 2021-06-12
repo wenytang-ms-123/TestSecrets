@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.1-rc.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/beta@0.7.0...@wenyt-ms/beta@0.7.1-rc.0) (2021-06-12)
+
+
+### Features
+
+* upadte consoel.lgo ([2892b71](https://github.com/wenytang-ms-123/TestSecrets/commit/2892b71a619c53aacf91f322d8bd8dc01841514b))
+
+
+
+
+
 # [0.7.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/beta@0.6.0...@wenyt-ms/beta@0.7.0) (2021-06-12)
 
 
