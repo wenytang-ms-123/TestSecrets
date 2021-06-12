@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.10.3-alpha.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.10.2...@wenyt-ms/alpha@0.10.3-alpha.0) (2021-06-12)
+
+
+### Features
+
+* add console.log on lerna ([cf69ce9](https://github.com/wenytang-ms-123/TestSecrets/commit/cf69ce9f0a2394d9dffc5ab04c6e839ad1fecb88))
+
+
+
+
+
 ## [0.10.2](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.10.1...@wenyt-ms/alpha@0.10.2) (2021-06-12)
 
 **Note:** Version bump only for package @wenyt-ms/alpha
