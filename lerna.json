@@ -3,7 +3,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "conventionalCommits": true,
+      "conventionalGraduate": true,
       "message": "chore(release): publish",
       "allowBranch": "master"
     }
