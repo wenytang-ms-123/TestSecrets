@@ -5,6 +5,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.2-alpha.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/usage@1.0.2-alpha.0...@wenyt-ms/usage@1.0.2-alpha.1) (2021-06-12)
 
+
+### Features
+
+* add fix ([d799363](https://github.com/wenytang-ms-123/TestSecrets/commit/d799363dee44faab479fad3124a1e0b38434d8d8))
+
+
+
+
+
+## [1.0.2-alpha.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/usage@1.0.2-alpha.0...@wenyt-ms/usage@1.0.2-alpha.1) (2021-06-12)
+
 **Note:** Version bump only for package @wenyt-ms/usage
 
 
