@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/usage@0.4.5-alpha.10...@wenyt-ms/usage@1.0.1) (2021-06-12)
+
+**Note:** Version bump only for package @wenyt-ms/usage
+
+
+
+
+
 ## [0.4.5-alpha.10](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/usage@0.4.5-alpha.9...@wenyt-ms/usage@0.4.5-alpha.10) (2021-06-12)
 
 **Note:** Version bump only for package @wenyt-ms/usage

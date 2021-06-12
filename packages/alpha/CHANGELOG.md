@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.11.0-alpha.8...@wenyt-ms/alpha@1.1.0) (2021-06-12)
+
+
+### Features
+
+* add consoel.log ([82e9bac](https://github.com/wenytang-ms-123/TestSecrets/commit/82e9baca89ea31fd44de10c88a46366cf96d59e1))
+* add log ([#8](https://github.com/wenytang-ms-123/TestSecrets/issues/8)) ([3d02a8d](https://github.com/wenytang-ms-123/TestSecrets/commit/3d02a8d385f77594045d3dc659cf9f6b925c07a3))
+
+
+
+
+
 # [0.11.0-alpha.8](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.11.0-alpha.7...@wenyt-ms/alpha@0.11.0-alpha.8) (2021-06-12)
 
 **Note:** Version bump only for package @wenyt-ms/alpha
