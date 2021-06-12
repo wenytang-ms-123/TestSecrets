@@ -5,7 +5,8 @@
     "setup": "npm install && npm run bootstrap --hoist",
     "bootstrap": "lerna bootstrap",
     "lint:staged": "lerna run lint:staged --stream",
-    "lint": "lerna run lint --stream"
+    "lint": "lerna run lint --stream",
+    "pc": "lerna publish"
   },
   "devDependencies": {
     "lerna": "^4.0.0"
