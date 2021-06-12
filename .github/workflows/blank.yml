@@ -5,10 +5,10 @@ name: CI
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ dev ]
-  pull_request:
-    branches: [ dev ]
+  # push:
+  #   branches: [ dev ]
+  # pull_request:
+  #   branches: [ dev ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,13 +32,19 @@ jobs:
         uses: actions/setup-node@v2.1.2
         with:
           node-version: 14
+
+      - name: Setup npm registry
+        run: |
+          echo "${{ secrets.NPMRC }}" > ~/.npmrc
+
       - name: Setup git
         run: |
           git config --global user.name 'wenytang-ms-123'
           git config --global user.email 'wenytang@wenytang.onmicrosoft.com'
+
       - name: Setup project
         run: |
           npx lerna bootstrap
       - name: release prerelease npm packages to npmjs.org
         run: |
-          npx lerna publish --canary --yes
+          npx lerna publish --canary --preid=rc --dist-tag
