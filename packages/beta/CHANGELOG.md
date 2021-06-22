@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/beta@1.0.1...@wenyt-ms/beta@0.8.0) (2021-06-22)
+
+
+### Features
+
+* Merge branch 'dev' ([9f5a88d](https://github.com/wenytang-ms-123/TestSecrets/commit/9f5a88d829e46d3fee54752df1c2f79fd6205894))
+
+
+
+
+
 ## [1.0.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/beta@0.7.4-alpha.4...@wenyt-ms/beta@1.0.1) (2021-06-12)
 
 **Note:** Version bump only for package @wenyt-ms/beta
