@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.11.1](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@0.11.0...@wenyt-ms/alpha@0.11.1) (2021-06-23)
+
+**Note:** Version bump only for package @wenyt-ms/alpha
+
+
+
+
+
 # [0.11.0](https://github.com/wenytang-ms-123/TestSecrets/compare/@wenyt-ms/alpha@1.1.1-alpha.1...@wenyt-ms/alpha@0.11.0) (2021-06-22)
 
 
