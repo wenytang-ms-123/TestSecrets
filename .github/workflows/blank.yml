@@ -22,6 +22,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: echeck env
+        environment: testsecret
+        run: |
+          echo hello
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout dev branch
         uses: actions/checkout@v2
