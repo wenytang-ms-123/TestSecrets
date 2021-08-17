@@ -22,6 +22,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: test
+        run: |
+          echo "123123"
       - name: check env
         environment: testsecret.beyond
         run: |
